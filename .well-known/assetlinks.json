@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mrfusion3dprint.twa",
+        "sha256_cert_fingerprints": ["CB:F2:EA:0C:77:BC:51:BF:A9:29:A5:50:AA:8F:A2:D3:CA:E7:BE:EB:CF:16:82:02:68:67:C2:C2:31:74:4E:81"]
+      }
+    }]
